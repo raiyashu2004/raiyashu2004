@@ -1,95 +1,175 @@
-<h1 align="center">Achintya Rai</h1>
+<div align="center">
+
+# 🚀 Achintya Rai
+
+### Data Science • Machine Learning • Artificial Intelligence
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Machine+Learning+Developer;AI+Explorer;Building+Intelligent+Solutions;Always+Learning+Always+Building" />
+
+</div>
+
+---
+
+## 💫 About Me
+
+🔹 Computer Science Undergraduate passionate about AI and Data Science
+
+🔹 Building intelligent systems using Machine Learning and Analytics
+
+🔹 Interested in NLP, Predictive Analytics, Document Intelligence, and Automation
+
+🔹 Love turning raw data into meaningful insights
+
+🔹 Focused on solving real-world problems through technology
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <b>Data Science • Machine Learning • Artificial Intelligence</b>
-</p>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="center">
-Building intelligent systems, extracting insights from data, and solving real-world problems through technology.
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/raiyashu2004">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## About Me
+# ⚡ Tech Stack
 
-Computer Science undergraduate with a strong interest in Data Science, Machine Learning, Artificial Intelligence, and Analytics.
-
-I enjoy transforming complex datasets into actionable insights and developing AI-powered solutions that address real-world challenges.
-
-### Areas of Interest
-
-- Machine Learning
-- Data Science
-- Natural Language Processing
-- Predictive Analytics
-- Intelligent Automation
-- Data Visualization
-- Document Intelligence
-
----
-
-## Technical Skills
+<div align="center">
 
 ### Languages
 
-`Python` `Java` `SQL`
+<img src="https://skillicons.dev/icons?i=python,java,mysql" />
 
 ### Data Science & AI
 
-`Pandas` `NumPy` `Scikit-Learn` `TensorFlow`
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 
-`Machine Learning` `NLP` `Data Analysis`
+### Tools
 
-### Databases
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-`MySQL`
+</div>
 
-### Tools & Platforms
+### Libraries & Frameworks
 
-`Git` `GitHub` `Jupyter Notebook`
-
-`VS Code` `Streamlit` `Power BI`
+```text
+Pandas • NumPy • Scikit-Learn • Streamlit
+Matplotlib • Machine Learning • NLP
+Data Analytics • Power BI
+```
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
-### Dream Interpretation AI
+## 🧠 Dream Interpretation AI
 
-An NLP-powered application that analyzes dream descriptions and identifies psychological themes using machine learning techniques.
+AI-powered system that analyzes dream descriptions and identifies psychological themes using NLP and Machine Learning.
 
-### AI Cafeteria Queue & Waste Optimizer
+### Key Highlights
 
-A data-driven optimization system designed to improve cafeteria efficiency, reduce waiting times, and minimize food wastage.
+✔ Text Analysis
 
-### Document Intelligence Solutions
+✔ Theme Detection
+
+✔ Clustering & Insights
+
+✔ Interactive Interface
+
+---
+
+## 🍽️ AI Cafeteria Queue & Waste Optimizer
+
+Data-driven optimization platform designed to reduce waiting times and minimize food wastage.
+
+### Key Highlights
+
+✔ Queue Prediction
+
+✔ Demand Forecasting
+
+✔ Waste Reduction Analytics
+
+✔ Operational Optimization
+
+---
+
+## 📄 Document Intelligence Solutions
 
 AI workflows for extracting, organizing, and processing information from unstructured documents.
 
-### Data Science Portfolio
+### Key Highlights
 
-A collection of machine learning, analytics, visualization, and predictive modeling projects.
+✔ Information Extraction
 
----
+✔ Document Understanding
 
-## What I'm Working On
+✔ Automated Processing
 
-- Advanced Machine Learning Applications
-- End-to-End AI Solutions
-- Intelligent Document Processing
-- Real-World Data Analytics Projects
+✔ Structured Output Generation
 
 ---
 
-## Connect
+## 📊 Data Science Portfolio
 
-📧 Email: raiachintya984@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/achintya-rai-2293b6401 
-
+A collection of analytics, machine learning, visualization, and predictive modeling projects.
 
 ---
 
-<p align="center">
-<i>Turning data into decisions and ideas into intelligent solutions.</i>
-</p>
+# 🎯 Areas of Interest
+
+🤖 Artificial Intelligence
+
+📊 Data Science
+
+🧠 Machine Learning
+
+💬 Natural Language Processing
+
+📈 Predictive Analytics
+
+📄 Document Intelligence
+
+📉 Business Analytics
+
+☁️ Intelligent Automation
+
+---
+
+# 📚 Currently Exploring
+
+🔹 Advanced Machine Learning
+
+🔹 Deep Learning
+
+🔹 Intelligent Document Processing
+
+🔹 End-to-End AI Systems
+
+🔹 Data Engineering Fundamentals
+
+---
+
+# 🏆 Philosophy
+
+> "Data tells stories. AI helps us understand them."
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+Building technology that learns, adapts, and creates impact.
+
+</div>
