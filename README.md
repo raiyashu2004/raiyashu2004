@@ -1,91 +1,95 @@
 <h1 align="center">Achintya Rai</h1>
 
 <p align="center">
-Data Science • Machine Learning • Artificial Intelligence
+  <b>Data Science • Machine Learning • Artificial Intelligence</b>
 </p>
 
 <p align="center">
-Building intelligent systems that transform data into actionable insights.
+Building intelligent systems, extracting insights from data, and solving real-world problems through technology.
 </p>
 
 ---
 
 ## About Me
 
-I'm a Computer Science undergraduate passionate about Data Science,
-Machine Learning, Artificial Intelligence, and Analytics.
+Computer Science undergraduate with a strong interest in Data Science, Machine Learning, Artificial Intelligence, and Analytics.
 
-My interests include:
+I enjoy transforming complex datasets into actionable insights and developing AI-powered solutions that address real-world challenges.
 
-- Machine Learning & Predictive Modeling
+### Areas of Interest
+
+- Machine Learning
+- Data Science
 - Natural Language Processing
-- Intelligent Document Processing
-- Data Analytics & Visualization
-- Applied AI Solutions
-
-I enjoy building projects that solve real-world problems using data-driven approaches.
+- Predictive Analytics
+- Intelligent Automation
+- Data Visualization
+- Document Intelligence
 
 ---
 
 ## Technical Skills
 
 ### Languages
-Python • Java • SQL
+
+`Python` `Java` `SQL`
 
 ### Data Science & AI
-Pandas • NumPy • Scikit-Learn • TensorFlow • NLP • Machine Learning
 
-### Visualization & Analytics
-Power BI • Matplotlib • Data Analytics
+`Pandas` `NumPy` `Scikit-Learn` `TensorFlow`
 
-### Tools
-Git • GitHub • Jupyter Notebook • VS Code • Streamlit
+`Machine Learning` `NLP` `Data Analysis`
+
+### Databases
+
+`MySQL`
+
+### Tools & Platforms
+
+`Git` `GitHub` `Jupyter Notebook`
+
+`VS Code` `Streamlit` `Power BI`
 
 ---
 
 ## Featured Projects
 
 ### Dream Interpretation AI
-An NLP-powered system that analyzes dream descriptions and identifies
-psychological themes through machine learning.
+
+An NLP-powered application that analyzes dream descriptions and identifies psychological themes using machine learning techniques.
 
 ### AI Cafeteria Queue & Waste Optimizer
-A smart optimization platform designed to improve operational efficiency,
-reduce wait times, and minimize food wastage.
+
+A data-driven optimization system designed to improve cafeteria efficiency, reduce waiting times, and minimize food wastage.
 
 ### Document Intelligence Solutions
-AI-driven workflows for extracting and organizing information from
-unstructured documents.
+
+AI workflows for extracting, organizing, and processing information from unstructured documents.
 
 ### Data Science Portfolio
-A collection of machine learning, analytics, and visualization projects.
+
+A collection of machine learning, analytics, visualization, and predictive modeling projects.
 
 ---
 
-## Featured Work
+## What I'm Working On
 
-- Dream Interpretation AI
-- AI Cafeteria Queue & Waste Optimizer
-- Document Intelligence Solutions
-- Machine Learning Portfolio
-
----
-
-## Current Focus
-
-- Applied Machine Learning
-- Artificial Intelligence
-- Data Engineering Fundamentals
-- Building End-to-End Data Products
+- Advanced Machine Learning Applications
+- End-to-End AI Solutions
+- Intelligent Document Processing
+- Real-World Data Analytics Projects
 
 ---
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/achintya-rai-2293b6401 
+📧 Email: raiachintya984@gmail.com
 
-Email: raiachintya984@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/achintya-rai-2293b6401 
+
 
 ---
 
-"Leveraging data and AI to create meaningful solutions."
+<p align="center">
+<i>Turning data into decisions and ideas into intelligent solutions.</i>
+</p>
