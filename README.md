@@ -62,15 +62,12 @@ A collection of machine learning, analytics, and visualization projects.
 
 ---
 
-## GitHub Statistics
+## Featured Work
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=raiyashu2004&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyashu2004&layout=compact&hide_border=true" />
-</p>
+- Dream Interpretation AI
+- AI Cafeteria Queue & Waste Optimizer
+- Document Intelligence Solutions
+- Machine Learning Portfolio
 
 ---
 
@@ -85,11 +82,9 @@ A collection of machine learning, analytics, and visualization projects.
 
 ## Connect
 
-LinkedIn: [Your LinkedIn]
+LinkedIn: https://www.linkedin.com/in/achintya-rai-2293b6401 
 
-Email: [Your Email]
-
-Portfolio: [Your Portfolio]
+Email: raiachintya984@gmail.com
 
 ---
 
