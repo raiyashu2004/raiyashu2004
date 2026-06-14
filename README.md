@@ -2,9 +2,20 @@
 
 # 👋 Hi, I'm Achintya Rai
 
-### Full-Stack Developer • Data Scientist • Data Analyst
+### Full-Stack Developer • Data Scientist • AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Data+Scientist;Data+Analyst;Building+Scalable+Applications;Transforming+Data+into+Insights;Always+Learning+Always+Building" />
+<a href="https://github.com/raiyashu2004">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Development;Machine+Learning+%26+AI;Data+Analytics+%26+Insights;Building+Scalable+Applications;Always+Learning,+Always+Building" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/achintya-rai-2293b6401/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:raiachintya984@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 </div>
 
@@ -12,144 +23,61 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science undergraduate passionate about building impactful digital products and data-driven solutions.
+I'm a Computer Science undergraduate passionate about building impactful digital products. I specialize in bridging the gap between **Software Engineering** and **Artificial Intelligence**—turning complex data into actionable insights and building scalable, user-centric web applications.
 
-I enjoy combining software engineering, analytics, and artificial intelligence to solve real-world problems.
-
-### What I Do
-
-🌐 Develop modern full-stack web applications
-
-📊 Analyze data and uncover actionable insights
-
-🤖 Build machine learning and AI-powered solutions
-
-📈 Create dashboards and business intelligence reports
-
-🔍 Work on end-to-end projects from data collection to deployment
+- 🔭 **Currently focusing on:** Full-Stack Web Development & Cloud Deployment (React, Supabase, Vercel)
+- 🌱 **Deepening my knowledge in:** Machine Learning Systems & Advanced NLP Architectures
+- 💡 **Core Philosophy:** "Building software, discovering insights, and creating intelligent solutions."
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### Programming Languages
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🌐 Full-Stack Web</h3>
+      <br />
+      <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,tailwind,supabase&perline=4" alt="Web Dev Icons" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🧠 Data & AI</h3>
+      <br />
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,postgres&perline=4" alt="Data Science Icons" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🛠 Tools & Languages</h3>
+      <br />
+      <img src="https://skillicons.dev/icons?i=java,git,github,vscode,aws,docker&perline=4" alt="Tools Icons" />
+    </td>
+  </tr>
+</table>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql" />
-</p>
-
-### Full-Stack Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" />
-</p>
-
-### Data Science & Analytics
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-**Libraries & Tools**
-
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-- Power BI
-- Streamlit
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+**Data Science Libraries:** Pandas • NumPy • Matplotlib • Power BI • Streamlit
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-## 🧠 Dream Interpretation AI
+### ⚖️ [NyayaBot — Indian Legal AI Assistant](https://github.com/raiyashu2004/nyayabot)
+*React • Supabase • Google Gemini API • Tailwind CSS*
+- A serverless AI legal platform trained to assist Indian advocates.
+- Features highly accurate, hallucination-resistant legal citations using the Gemini API.
+- Engineered a cloud document vault with Supabase Storage and PostgreSQL Row-Level Security for strict legal confidentiality.
 
-Machine learning and NLP-based system that analyzes dream descriptions and identifies psychological themes.
 
-### 🍽️ AI Cafeteria Queue & Waste Optimizer
 
-Predictive analytics platform designed to optimize cafeteria operations and reduce food wastage.
-
-### 📄 Intelligent Document Processing
-
-AI-powered document analysis and information extraction workflows.
-
-### 🌐 Full-Stack Web Applications
-
-Responsive web applications built using modern frontend and backend technologies.
-
-### 📊 Analytics Dashboards
-
-Interactive dashboards and reports providing business insights through data visualization.
 
 ---
 
-# 🎯 Professional Interests
+## 📊 GitHub Activity
 
-### Software Development
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raiyashu2004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Achintya's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiyashu2004&theme=radical&hide_border=true&background=0D1117" alt="Achintya's GitHub Streak" width="48%" />
+</div>
 
-- Full-Stack Development
-- Backend Systems
-- API Development
-- Scalable Applications
-
-### Data Science
-
-- Machine Learning
-- Predictive Analytics
-- Natural Language Processing
-- AI Solutions
-
-### Data Analytics
-
-- Business Intelligence
-- Dashboard Development
-- Data Visualization
-- Decision Support Systems
-
----
-
-# 📈 Current Focus
-
-🚀 Full-Stack Application Development
-
-📊 Advanced Data Analytics
-
-🤖 Machine Learning Systems
-
-☁️ Cloud & Deployment Technologies
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/achintya-rai-2293b6401/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:raiachintya984@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/raiyashu2004">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# 💡 Motto
-
-### "Building software, discovering insights, and creating intelligent solutions."
-
-⭐ Explore my repositories to see projects spanning Full-Stack Development, Data Science, and Analytics.
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyashu2004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
