@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently focusing on **Full-Stack Web Development & Cloud Deployment**
 - 🌱 Deepening my knowledge in **Machine Learning Systems & Advanced NLP Architectures**
-- 👷 All of my projects are available at **[raiyashu2004.github.io](https://raiyashu2004.github.io)**
+- 👷 All of my projects are available at **[achintya.codes](https://achintya.codes)**
 - 📬 Reach out to me at **[raiachintya984@gmail.com](mailto:raiachintya984@gmail.com)**
 
 <br/>
@@ -25,9 +25,6 @@
   </a>
   <a href="https://discordapp.com/users/853601649948098570" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="45" height="45"/>
-  </a>
-  <a href="https://leetcode.com/u/raiyashu2004/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="45"/>
   </a>
 </p>
 
