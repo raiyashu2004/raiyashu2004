@@ -59,14 +59,17 @@ I'm a Computer Science undergraduate passionate about building impactful digital
 
 ## 🌟 Featured Projects
 
-### ⚖️ [NyayaBot — Indian Legal AI Assistant](https://github.com/raiyashu2004/nyayabot)
-*React • Supabase • Google Gemini API • Tailwind CSS*
-- A serverless AI legal platform trained to assist Indian advocates.
-- Features highly accurate, hallucination-resistant legal citations using the Gemini API.
-- Engineered a cloud document vault with Supabase Storage and PostgreSQL Row-Level Security for strict legal confidentiality.
+### ⚖️ [Juris — Indian Legal AI Assistant](https://github.com/raiyashu2004/Juris)
+*React • FastAPI • Google Gemini API • LangChain*
+- An AI-powered legal research and drafting platform built for Indian advocates.
+- Features persistent chat sessions with conversational memory and domain guardrails.
+- Analyzes legal documents, flags risks, and automatically drafts formatted legal applications.
 
-
-
+### 🕵️ [STRATEGOS — Autonomous Data Analyst Agent](https://github.com/raiyashu2004/data-analyst-agent)
+*React • Spring Boot • FastAPI • ReAct Loop*
+- A full-stack, AI-powered autonomous data analyst that independently reasons and writes Python code to analyze datasets.
+- Engineered a secure 3-tier architecture with a Java API Gateway and an isolated Python ML Execution environment.
+- Provides real-time streaming of the agent's internal "thought process" and auto-generates interactive visualizations.
 
 ---
 
