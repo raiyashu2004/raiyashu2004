@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/github-banner.png" alt="Achintya Rai Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/raiyashu2004/raiyashu2004/main/assets/github-banner.png" alt="Achintya Rai Banner" width="100%" />
 </div>
 
 <br/>
