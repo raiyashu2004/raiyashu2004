@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=250&section=header&text=Achintya%20Rai&fontSize=80&desc=Data%20Scientist%20%7C%20Backend%20Engineer&descAlignY=75&descAlign=50" width="100%" />
+  <img src="./assets/github-banner.png" alt="Achintya Rai Banner" width="100%" />
 </div>
 
 <br/>
