@@ -40,6 +40,9 @@
 
 ### Featured Projects
 
+**🌍✈️ [NOMADIX — Collaborative Travel Portal & AI Itinerary Planner](https://github.com/raiyashu2004/NOMADIX)**
+> An all-in-one group travel portal featuring democratic AI destination recommendations, interactive day-by-day itineraries, real-time Socket.io chat, and automated group bill splitting.
+
 **⚖️ [Juris — Indian Legal AI Assistant](https://github.com/raiyashu2004/Juris)**
 > An AI-powered legal research and drafting platform built for Indian advocates. Features persistent chat sessions with conversational memory and domain guardrails.
 
